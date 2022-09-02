@@ -5,9 +5,7 @@
 ---
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ld980105)](https://solved.ac/ld980105)
----
-### Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2roum&theme=cobalt)
+
 
 
 <!--
