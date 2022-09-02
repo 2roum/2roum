@@ -4,7 +4,7 @@
 ![2roum's GitHub stats](https://github-readme-stats.vercel.app/api?username=2roum&show_icons=true&theme=cobalt)
 ---
 ### Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ld980105)](https://solved.ac/ld980105)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ld980105)](https://solved.ac/ld980105)
 
 
 
